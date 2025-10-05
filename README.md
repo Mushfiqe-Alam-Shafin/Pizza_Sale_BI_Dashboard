@@ -54,6 +54,6 @@ This project demonstrates how **data visualization** can turn raw sales data int
 ## 📬 Contact
 
 Created by **Mushfiqe Alam Shafin**
-[LinkedIn](#) | [GitHub](#) | [Email](#)
+email: shafin575@gmail.com
 
 
